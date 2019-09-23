@@ -3,7 +3,7 @@
 Graph Plotter is a program written in Java with a Human Machine Interface (HMI)
 
 ### How to use it:
-To run the program execute "TraceurJar2.jar" by double-clicking it, 
+To run the program execute _**"TraceurJar2.jar"**_ by double-clicking it, 
 Go to > **A propos** > **Comment Utiliser** (to read about how to use the HMI) 
 After that you can select **Commencer** on the upper-left corner to Start.
 
