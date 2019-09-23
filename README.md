@@ -1,5 +1,19 @@
-# Graph Plotter July 2012
-is one of Master's Degree projects
+# Graph Plotter
+## Master's Degree projects (July 2012)
+Graph Plotter is a program written in Java with a Human Machine Interface (HMI)
 
-Graph Plotter is a program in Java with a Human Machine Interface (HMI)
-The HMI allows the user to plot any graph by providing the values of _x_ and _y_ manually or using an excel file. 
+### How to use it:
+To run the program execute "TraceurJar2.jar" by double-clicking it, 
+Go to > **A propos** > **Comment Utiliser** (to read about how to use the HMI) 
+After that you can select **Commencer** on the upper-left corner to Start.
+
+
+<img src="imageABBAZI/Graphe.png" width="500">
+
+The HMI allows the user to plot any graph by providing the values of _x_ and _y_ manually:
+
+<img src="imageABBAZI/choice.png" width="500">
+
+or using an excel file. 
+
+<img src="imageABBAZI/Open.png" width="500">
